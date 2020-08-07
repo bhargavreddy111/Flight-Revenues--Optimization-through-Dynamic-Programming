@@ -14,8 +14,9 @@ Ticket quantities are capped at the number of seats available.
 Your function will output the ticket price.
 You learn the demand_level for each day at the time you need to make predictions for that day. For all days in the future, you only know demand_level will be drawn from the uniform distribution between 100 and 200. So, for any day in the future, it is equally likely to be each value between 100 and 200.
 
-Kaggle Question
+Reference:
 https://www.kaggle.com/dansbecker/airline-price-optimization-micro-challenge
+https://www.kaggle.com/dansbecker/airline-price-optimization-solution
 
 Running Streamlit Demo files
 Command line input :
